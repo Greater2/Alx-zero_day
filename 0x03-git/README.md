@@ -1,1 +1,1 @@
-My first directory
+Already up to date.
